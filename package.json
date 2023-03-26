@@ -1,0 +1,36 @@
+{
+  "name": "practice-projects",
+  "version": "1.0.0",
+  "description": "crud api to implement the test cases",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "mongodb": "^4.12.0",
+    "nodemon": "^2.0.22",
+    "request-promise": "^4.2.6",
+    "request": "^2.88.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj123445555/practice-projects.git"
+  },
+  "author": "pankaj giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj123445555/practice-projects/issues"
+  },
+  "homepage": "https://github.com/pankaj123445555/practice-projects#readme"
+}
