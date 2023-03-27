@@ -1,6 +1,6 @@
 * steps to run the application
 
-* npm install
+* run : npm install
 * node .\index.js 
 * run the below link in the browser , as i use swagger for testing the api
 * http://localhost:3000/api-docs/
